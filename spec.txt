@@ -9,3 +9,4 @@ So I decided to make this project to create some scripts and dashboard to know t
 1 - Check if the internet is up.
 2 - Check if the machines listed in a file are responding to a ping.
 3 - When the electricity from the concessionaire fails, manage the machines listed in item 2 to turn off before the UPS fails.
+4 - Hardware with an attiny to control the power-on and power-off of the raspberry PI.
